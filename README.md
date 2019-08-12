@@ -1,2 +1,2 @@
-# Beachproject
-Beach project in ReactJs
+# ResortProject
+resort project in ReactJs
